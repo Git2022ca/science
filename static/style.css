@@ -1,0 +1,35 @@
+.textsize100 {
+    font-size: 100px;
+}
+.flexflex {
+    display: flex;
+}
+.flex1 {
+    flex:1;
+}
+.flex04 {
+    flex:0.4;
+}
+.flex09 {
+    flex:0.9;
+}
+.flex08 {
+    flex:0.8;
+}
+.flex07{
+    flex:0.7;
+}
+.flex05 {
+    flex:0.5;
+}
+
+.flex06 {
+    flex:0.6;
+}
+.a {
+    text-decoration-line: none
+}
+.btn1 {
+    background-color: white;
+    flex:1;
+}
