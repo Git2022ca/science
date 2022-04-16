@@ -30,6 +30,10 @@
     text-decoration-line: none
 }
 .btn1 {
-    background-color: white;
+    background-color: navy;
     flex:1;
+    height: 500px;
+    font-size: xx-large;
+    color: yellow;
+    
 }
